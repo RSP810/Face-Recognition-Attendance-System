@@ -1,7 +1,7 @@
 from fastapi import FastAPI, File, UploadFile, Form
 import shutil
 import uuid
-from pipeline import register_student, recognize_students
+from ML.pipeline import register_student, recognize_students
 
 app = FastAPI()
 
