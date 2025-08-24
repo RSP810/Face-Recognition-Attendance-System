@@ -1,0 +1,11 @@
+
+--------------> FRONTEND <-------------
+ nodejs - v22.18.0
+ architecture X64
+ npm - 10.9.3
+ npx - 10.9.3
+
+
+--------------> DATABASE <--------------
+mysql - Ver 9.3.0 for macos15 on arm64 (MySQL Community Server - GPL)
+postgreSQL - psql (PostgreSQL) 14.19 (Homebrew)
